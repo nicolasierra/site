@@ -1,0 +1,511 @@
+<!-- POPUP -->
+                <style type="text/css" rel="stylesheet">
+                    #rd-section-k8hluh9z {
+                        background-color: rgba(11, 97, 86, 1);
+                        border-bottom-style: none;
+                        border-color: #000000;
+                        border-left-style: none;
+                        border-radius: 0px;
+                        border-right-style: none;
+                        border-top-style: none;
+                        border-width: 1px;
+                    }
+
+                    #rd-section-k8hluh9z>div:not(.bricks--row) {
+                        min-height: 0px;
+                    }
+                </style>
+
+                <section id="rd-section-k8hluh9z" class="bricks--section rd-section">
+                    <style type="text/css" rel="stylesheet">
+                        #rd-row-k8hluoen {
+                            min-height: 50px;
+                        }
+
+                        #rd-row-k8hluoen .bricks--column>div {
+                            min-height: 50px;
+                        }
+
+                        @media screen and (max-width: 767px) {
+                            #rd-row-k8hluoen.bricks--row.rd-row {
+                                min-height: auto;
+                            }
+                        }
+                    </style>
+                    <div id="rd-row-k8hluoen" class="bricks--row rd-row">
+                        <style type="text/css" rel="stylesheet">
+                            #rd-column-kd8udthb {
+                                flex: 2 0 0;
+                            }
+
+                            #rd-column-kd8udthb>div {
+
+                                background-color: rgba(208, 2, 27, 1);
+
+                                justify-content: center;
+                                padding-top: 0px;
+                                padding-right: 10px;
+                                padding-bottom: 0px;
+                                padding-left: 10px;
+                            }
+
+                            @media screen and (max-width: 767px) {
+                                #rd-column-kd8udthb>div {
+                                    min-height: auto !important;
+                                }
+                            }
+                        </style>
+                        <div id="rd-column-kd8udthb" class="bricks--column rd-column">
+                            <div>
+                                <style type="text/css" rel="stylesheet">
+                                    #rd-image-kd8udzxl {
+                                        margin-top: 10px;
+                                        margin-bottom: 10px;
+                                        align-self: center;
+                                        max-width: 50px;
+                                    }
+
+                                    #rd-image-kd8udzxl a,
+                                    #rd-image-kd8udzxl img {
+                                        width: 50px;
+                                        max-width: 100%;
+                                        height: auto;
+                                        border-bottom-style: none;
+                                        border-color: #000000;
+                                        border-left-style: none;
+                                        border-radius: 0px;
+                                        border-right-style: none;
+                                        border-top-style: none;
+                                        border-width: 1px;
+                                    }
+
+                                    @media screen and (max-width: 767px) {
+                                        #rd-image-kd8udzxl {
+                                            align-self: center;
+                                        }
+                                    }
+                                </style>
+                                <div id="rd-image-kd8udzxl" class="bricks--component bricks--component-image rd-image">
+                                    <img src="https://d335luupugsy2.cloudfront.net/cms/files/468715/1656430119/$nmvwvvybjif"
+                                        alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <style type="text/css" rel="stylesheet">
+                            #rd-column-k8hluoeo {
+                                flex: 10 0 0;
+                            }
+
+                            #rd-column-k8hluoeo>div {
+
+                                background-color: rgba(208, 2, 27, 1);
+
+                                justify-content: center;
+                                padding-top: 0px;
+                                padding-right: 15px;
+                                padding-bottom: 0px;
+                                padding-left: 15px;
+                            }
+
+                            @media screen and (max-width: 767px) {
+                                #rd-column-k8hluoeo>div {
+                                    min-height: auto !important;
+                                }
+                            }
+                        </style>
+                        <div id="rd-column-k8hluoeo" class="bricks--column rd-column">
+                            <div>
+                                <style type="text/css" rel="stylesheet">
+                                    #rd-text-dk3tvgr2 {
+                                        display: block;
+                                        border-bottom-style: none;
+                                        border-color: #000000;
+                                        border-left-style: none;
+                                        border-radius: 0px;
+                                        border-right-style: none;
+                                        border-top-style: none;
+                                        border-width: 1px;
+                                        min-height: autopx;
+                                        max-width: 340px;
+                                        margin-top: 10px;
+                                        margin-bottom: 2px;
+                                        align-self: flex-start;
+                                        width: 100%;
+                                        word-break: break-word;
+                                    }
+                                </style>
+                                <div id="rd-text-dk3tvgr2" class="bricks--component bricks--component-text rd-text">
+                                    <p style="line-height: 1;"><strong
+                                            style="font-family: &quot;Open Sans&quot;, sans-serif; font-size: 20px; color: rgb(255, 255, 255);">Espanha
+                                            Fácil </strong></p>
+                                </div>
+                                <style type="text/css" rel="stylesheet">
+                                    #rd-text-kd5tygr3 {
+                                        display: block;
+                                        border-bottom-style: none;
+                                        border-color: #000000;
+                                        border-left-style: none;
+                                        border-radius: 0px;
+                                        border-right-style: none;
+                                        border-top-style: none;
+                                        border-width: 1px;
+                                        min-height: autopx;
+                                        max-width: 340px;
+                                        margin-top: 2px;
+                                        margin-bottom: 10px;
+                                        align-self: flex-start;
+                                        width: 100%;
+                                        word-break: break-word;
+                                    }
+                                </style>
+                                <div id="rd-text-kd5tygr3" class="bricks--component bricks--component-text rd-text">
+                                    <p style="line-height: 1;"><span
+                                            style="font-size: 14px; color: rgb(255, 255, 255); font-family: &quot;Open Sans&quot;, sans-serif;">online</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <style type="text/css" rel="stylesheet">
+                        #rd-row-k8hluha0 {
+                            min-height: 50px;
+                        }
+
+                        #rd-row-k8hluha0 .bricks--column>div {
+                            min-height: 50px;
+                        }
+
+                        @media screen and (max-width: 767px) {
+                            #rd-row-k8hluha0.bricks--row.rd-row {
+                                min-height: auto;
+                            }
+                        }
+                    </style>
+                    <div id="rd-row-k8hluha0" class="bricks--row rd-row">
+                        <style type="text/css" rel="stylesheet">
+                            #rd-column-k8hluha1 {
+                                flex: 12 0 0;
+                            }
+
+                            #rd-column-k8hluha1>div {
+
+                                background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/468715/1656430119/$epkxlbse2d), linear-gradient(to bottom, rgba(233, 224, 215, 1) 0%, rgba(233, 224, 215, 1) 100%);
+                                background-position-x: 50%;
+                                background-position-y: 50%;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                background-attachment: scroll;
+
+                                justify-content: center;
+                                padding-top: 0px;
+                                padding-right: 15px;
+                                padding-bottom: 0px;
+                                padding-left: 15px;
+                            }
+
+                            @media screen and (max-width: 767px) {
+                                #rd-column-k8hluha1>div {
+                                    min-height: auto !important;
+                                }
+                            }
+                        </style>
+
+                        <div id="rd-column-k8hluha1" class="bricks--column rd-column">
+                            <div>
+                                <style type="text/css" rel="stylesheet">
+                                    #rd-box-kd0h0qwg {
+                                        background-color: rgba(255, 255, 255, 1);
+                                        border-bottom-style: solid;
+                                        border-color: #cacaca;
+                                        border-left-style: solid;
+                                        border-radius: 6px;
+                                        border-right-style: none;
+                                        border-top-style: none;
+                                        border-width: 1px;
+                                        padding-top: 0px;
+                                        padding-right: 12px;
+                                        padding-bottom: 0px;
+                                        padding-left: 12px;
+                                        min-height: -1px;
+                                        margin-top: 15px;
+                                        margin-bottom: 10px;
+                                        max-width: 340px;
+                                        align-self: flex-start;
+                                        display: flex;
+                                        flex-direction: column;
+                                    }
+                                </style>
+
+                                <div id="rd-box-kd0h0qwg" class="bricks--component bricks--component-box rd-box">
+                                    <style type="text/css" rel="stylesheet">
+                                        #rd-text-kd0gxbsf {
+                                            display: block;
+                                            border-bottom-style: none;
+                                            border-color: #000000;
+                                            border-left-style: none;
+                                            border-radius: 0px;
+                                            border-right-style: none;
+                                            border-top-style: none;
+                                            border-width: 1px;
+                                            min-height: auto-22px;
+                                            max-width: 446px;
+                                            margin-top: 12px;
+                                            margin-bottom: 12px;
+                                            align-self: flex-start;
+                                            width: 100%;
+                                            word-break: break-word;
+                                        }
+                                    </style>
+                                    <div id="rd-text-kd0gxbsf" class="bricks--component bricks--component-text rd-text">
+                                        <p><span
+                                                style="font-size: 14px; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(65, 65, 65); background-color: rgb(255, 255, 255);">Olá!
+                                                Como podemos te ajudar hoje?</span><span
+                                                style="font-size: 14px; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(74, 74, 74); background-color: rgb(255, 255, 255);">
+                                            </span><span
+                                                style="font-size: 14px; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(74, 74, 74);">
+                                                Me informe seu email para iniciarmos uma conversa sem compromisso
+                                                :)</span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <style type="text/css" rel="stylesheet">
+                                    #rd-form-l4r93qrm {
+                                        align-self: flex-end;
+                                        max-width: 426px;
+                                        margin-top: 0px;
+                                        margin-bottom: 15px;
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__fieldset {
+                                        flex-flow: column nowrap;
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__field {
+                                        margin-bottom: 10px;
+                                        padding: 0;
+                                        width: 100.0%;
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__field.bricks-form__privacy,
+                                    #rd-form-l4r93qrm .bricks-form__field.bricks-form__terms {
+                                        width: 100%;
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__static {
+                                        color: #4a4a4a;
+                                        font-family: Open Sans, sans-serif;
+                                        font-size: 14px;
+                                        font-style: normal;
+                                        font-weight: normal;
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__static a {
+                                        color: #4a4a4a;
+                                        text-decoration: underline;
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__label {
+                                        color: #4a4a4a;
+                                        display: none;
+                                        font-family: Open Sans, sans-serif;
+                                        font-size: 14px;
+                                        font-style: normal;
+                                        font-weight: normal;
+                                        text-align: left;
+                                        text-decoration: none;
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__input {
+                                        color: #4a4a4a;
+                                        font-family: Open Sans, sans-serif;
+                                        font-size: 14px;
+
+                                        background-color: #e7ffe7;
+
+                                        border-bottom-style: solid;
+                                        border-left-style: none;
+                                        border-right-style: solid;
+                                        border-top-style: none;
+                                        border-color: #cacaca;
+                                        border-radius: 6px;
+                                        border-width: 1px;
+                                        max-width: 100% !important;
+
+
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__input::placeholder {
+                                        color: normal;
+                                    }
+
+                                    #rd-form-l4r93qrm .select2-container .select2-choice {
+                                        height: 40px !important;
+                                        line-height: 40px !important;
+
+                                        color: #4a4a4a !important;
+                                        font-family: Open Sans, sans-serif !important;
+                                        font-size: 14px !important;
+                                    }
+
+                                    #rd-form-l4r93qrm .bricks-form__input:not(textarea) {
+                                        height: 40px;
+                                    }
+
+                                    #rd-form-l4r93qrm .with-select-flags>.phone-input-group {
+                                        display: flex;
+                                    }
+
+                                    #rd-form-l4r93qrm .with-select-flags>.phone-input-group>.phone-country>.choices {
+                                        height: 40px !important;
+                                    }
+
+                                    #rd-form-l4r93qrm .with-select-flags>.phone-input-group>.phone-country>.choices>.choices__inner {
+                                        position: relative;
+                                        width: 60px;
+                                        background-color: #e7ffe7;
+                                        border-bottom-style: solid;
+                                        border-left-style: none;
+                                        border-top-style: none;
+                                        border-color: #cacaca;
+                                        border-width: 1px;
+                                        border-right: 0px;
+                                        border-top-right-radius: 0px;
+                                        border-bottom-right-radius: 0px;
+                                        border-top-left-radius: 6px;
+                                        border-bottom-left-radius: 6px;
+                                        padding-bottom: 0px;
+                                        margin-bottom: 0px;
+                                        min-height: 100%;
+                                    }
+
+                                    #rd-form-l4r93qrm .with-select-flags>.phone-input-group>.phone-country>.choices .choices__inner .flag {
+                                        top: 50%;
+                                        left: calc(50% - 10px);
+                                        position: absolute;
+                                        transform: translate(-50%, -50%);
+                                    }
+
+                                    #rd-form-l4r93qrm .with-select-flags>.phone-input-group .phone {
+                                        width: calc(100% - 55px);
+                                        border-top-left-radius: 0px;
+                                        border-bottom-left-radius: 0px;
+                                    }
+
+                                    #rd-form-l4r93qrm .with-select-flags>.phone-input-group>.phone-country {
+                                        width: 60px;
+                                        display: inline-block;
+                                        height: 40px !important;
+                                    }
+
+                                    #rd-form-l4r93qrm .with-select-flags>.phone-input-group>.phone-country .choices__list--dropdown {
+                                        width: 300px;
+                                    }
+
+                                    #rd-form-l4r93qrm .has-danger .bricks-form__input {
+                                        border: solid 1px #DC3543;
+                                    }
+
+                                    #rd-form-l4r93qrm .has-danger div.pristine-error {
+                                        color: #DC3543;
+                                        font-size: 12px;
+                                    }
+                                </style>
+
+                                <div id="rd-form-l4r93qrm" class="bricks--component bricks-form rd-form">
+                                    <form class="rdstation-popup-js-form-identifier"
+                                        action="https://hooks.zapier.com/hooks/catch/7269177/3w9vdem/"
+                                        data-typed-fields="1" data-lang="pt-BR" novalidate="true">
+                                        <input type="hidden" name="token_rdstation"
+                                            value="7f6b85532870c607da66c5180f728fbd">
+                                        <input type="hidden" name="conversion_identifier" value="whatsapp-do-site">
+                                        <input type="hidden" name="internal_source" value="12">
+                                        <input type="hidden" name="c_utmz" value="">
+                                        <input type="hidden" name="traffic_source"
+                                            value="encoded_eyJmaXJzdF9zZXNzaW9uIjp7InZhbHVlIjoiKG5vbmUpIiwiZXh0cmFfcGFyYW1zIjp7fX0sImN1cnJlbnRfc2Vzc2lvbiI6eyJ2YWx1ZSI6Imh0dHBzOi8vd3d3LmVzcGFuaGFmYWNpbC5jb20vd3AtYWRtaW4vZWRpdC1jb21tZW50cy5waHA/Y29tbWVudF9zdGF0dXM9YWxsIiwiZXh0cmFfcGFyYW1zIjp7fX0sImNyZWF0ZWRfYXQiOjE3MDM2NzE2NjA4OTZ9">
+                                        <input type="hidden" name="client_id"
+                                            value="ad2b5326-5bd8-453e-a185-3caffa35ea91">
+                                        <input type="hidden" name="_doe" value="">
+                                        <input type="hidden" name="privacy_data[browser]" id="privacy_data_browser">
+                                        <div class="bricks-form__fieldset" data-progressive-profiling="">
+                                            <div class="bricks-form__field">
+                                                <label for="rd-text_field-lgz7dbwy" class="bricks-form__label">
+                                                    Nome*
+                                                </label>
+                                                <input id="rd-text_field-lgz7dbwy"
+                                                    class="bricks-form__input required js-text js-field-name"
+                                                    name="name" type="text" data-use-type="STRING" placeholder="Nome *"
+                                                    required="required">
+                                            </div>
+                                            <div class="bricks-form__field">
+                                                <label for="rd-email_field-lgz7dbwz" class="bricks-form__label">
+                                                    Email*
+                                                </label>
+                                                <input id="rd-email_field-lgz7dbwz"
+                                                    class="bricks-form__input required js-email js-field-email"
+                                                    name="email" type="email" data-use-type="STRING" data-input-mask=""
+                                                    placeholder="Email *" required="required">
+                                            </div>
+                                        </div>
+                                        <style type="text/css" rel="stylesheet">
+                                            a#rd-button-l4r93qrp {
+                                                display: flex;
+                                                flex-direction: column;
+                                            }
+
+                                            #rd-button-l4r93qrp.bricks--component {
+                                                -ms-flex-align: center;
+                                                -ms-flex-direction: column;
+                                                -ms-flex-pack: center;
+                                                align-self: flex-end;
+                                                background-color: rgba(11, 97, 86, 1);
+                                                border-bottom-style: none;
+                                                border-color: #000000;
+                                                border-left-style: none;
+                                                border-radius: 6px;
+                                                border-right-style: none;
+                                                border-top-style: none;
+                                                border-width: 0px;
+
+                                                box-shadow: 0px 0px 0px 0px #cccccc;
+                                                ;
+                                                color: #FFFFFF;
+                                                cursor: pointer;
+                                                font-family: Open Sans, sans-serif;
+                                                font-size: 16px;
+                                                font-style: normal;
+                                                font-weight: normal;
+                                                height: 40px;
+                                                justify-content: center;
+                                                line-height: 1.42857;
+                                                margin-bottom: 0px;
+                                                margin-top: 0px;
+                                                max-width: 150px;
+                                                text-align: center;
+                                                text-decoration: none;
+                                                width: 100%;
+                                                padding-right: 10px;
+                                                padding-left: 10px;
+                                            }
+
+                                            @media screen and (max-width: 767px) {
+                                                #rd-button-l4r93qrp.bricks--component {
+                                                    height: auto;
+                                                    padding-top: 0.66em;
+                                                    padding-bottom: 0.66em;
+                                                    align-self: center;
+                                                }
+                                            }
+                                        </style>
+                                        <div class="bricks-form__submit">
+                                            <button
+                                                class="bricks--component bricks--component-button rdstation-popup-js-submit-button rd-button"
+                                                id="rd-button-l4r93qrp">
+                                                Iniciar conversa
+                                            </button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
