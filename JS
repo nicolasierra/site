@@ -1,19 +1,16 @@
 document.addEventListener('DOMContentLoaded', function() {
     var form = document.querySelector('#lp-pom-form-17 form');
-
+    
     form.addEventListener('submit', function(e) {
-        e.preventDefault(); // Prevenir el envío normal del formulario.
+        e.preventDefault();
         console.log('Formulario interceptado');
 
-        // Construye la URL a la que deseas enviar el formulario.
         var actionURL = '/fsg?pageId=74cf9891-599c-45ec-b671-89aabb53eda5&variant=c';
         console.log('URL de acción definida:', actionURL);
 
-        // Crea un objeto FormData con los datos del formulario.
         var formData = new FormData(form);
         console.log('Datos del formulario preparados');
 
-        // Envía los datos del formulario usando Fetch API a la URL específica.
         console.log('Enviando formulario...');
         fetch(actionURL, {
             method: 'POST',
@@ -21,14 +18,11 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .then(response => {
             console.log('Respuesta recibida del servidor', response);
-
-            // Aquí puedes decidir cómo manejar la respuesta. Por ejemplo:
             console.log('Estado de la respuesta:', response.status);
             response.text().then(text => console.log('Cuerpo de la respuesta:', text));
 
             if (response.ok) {
                 console.log('Respuesta OK del servidor');
-                // Procede con la redirección a WhatsApp aquí...
             } else {
                 throw new Error('No se pudo enviar el formulario correctamente.');
             }
